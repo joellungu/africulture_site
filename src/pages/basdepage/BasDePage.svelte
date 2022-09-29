@@ -43,11 +43,10 @@
 
 <footer class="footerr ">
   <div class="nav-b">
-    <img src="africulture_sarlu_logo.png" alt="" width="50" height="50">       
+    <!-- <img src="africulture_sarlu_logo.png" alt="" width="50" height="50">        -->
     <ul>
       <li class="mb-1"><a href="#">Qui sommes nous</a></li>
       <li class="mb-1"><a href="#">Politique de confidencialité</a></li>
-      <li class="mb-1"><a href="#">Privacy</a></li>
       <li class="mb-1"><a href="#">Termes et conditions d'utilisation</a></li>
     </ul>
   </div>
